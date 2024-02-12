@@ -1,4 +1,4 @@
-# 📑: Project: [Audiobook-Service](https://guilhermef-r.github.io/Audiobook-Service/)
+# 📗: Project: [Audiobook-Service](https://guilhermef-r.github.io/Audiobook-Service/)
 Projeto realizado durante a 1ª aula do Intensivão de JavaScript da [Hashtag Programação](https://www.youtube.com/@HashtagProgramacao) no YouTube. Nesse projeto, criamos um site de audiobook usando JavaScript, css e html.
 
 # 📚: Funcionalidades:
