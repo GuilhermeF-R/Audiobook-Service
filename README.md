@@ -3,7 +3,7 @@ Projeto realizado durante a 3ª aula do Intensivão de JavaScript da [Hashtag Pr
 
 # 📚: Funcionalidades:
 
-+ Avance entre capítulos
++ Avance e volte entre capítulos
 + Ouça dez capítulos de Dom Casmurro
 + Pause e play
 
