@@ -1,0 +1,112 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+
+body {
+  background-image: linear-gradient(#031607, #020700);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  color: #071601;
+}
+
+header {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #09af3867;
+  color: #022711;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding: 1rem 0;
+  font-size: 0.8rem;
+  & > img {
+    position: relative;
+    max-height: 2.5rem;
+    margin-right: 0.3rem;
+    left: -1.4%;
+  }
+}
+.texto-header{
+  position: relative;
+  top: 50%;
+  left: -1.4%;
+  transform: translateY(-50%);
+  text-align: center;
+}
+
+main {
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+}
+
+h2{
+  position:flex;
+  color:  rgba(0, 0, 0, 0);
+}
+.container {
+  background-color: rgba(22, 255, 14, 0.452);
+  width: 390px;
+  height: 560px;
+  border-radius: 10%;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+button {
+  background-color: inherit;
+  color: inherit;
+  border: none;
+  cursor: pointer;
+  
+}
+
+.music-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+}
+#autor{
+  display: absolute;
+  flex-direction: column;
+  align-items: center;
+  margin: 1rem;
+}
+
+#chapter {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin:0;
+  font-size: 1.5rem;
+}
+
+
+#back, #skip {
+  font-size: 3rem;
+}
+
+#play-pause {
+  font-size: 4rem;
+}
+
+#container-buttons {
+  margin: 1rem;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  
+}
+
+#img{
+  border-radius: 5%;
+}
