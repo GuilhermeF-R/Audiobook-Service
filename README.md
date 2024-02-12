@@ -1,5 +1,5 @@
 # 📑: Project: [Audiobook-Service](https://guilhermef-r.github.io/Audiobook-Service/)
-Projeto realizado durante a 3ª aula do Intensivão de JavaScript da [Hashtag Programação](https://www.youtube.com/@HashtagProgramacao) no YouTube. Nesse projeto, criamos um cardápio usando Vite + React.
+Projeto realizado durante a 1ª aula do Intensivão de JavaScript da [Hashtag Programação](https://www.youtube.com/@HashtagProgramacao) no YouTube. Nesse projeto, criamos um cardápio usando Vite + React.
 
 # 📚: Funcionalidades:
 
