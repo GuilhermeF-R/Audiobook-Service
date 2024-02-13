@@ -15,7 +15,7 @@ Projeto realizado durante a 1ª aula do Intensivão de JavaScript da [Hashtag Pr
 
 
 ## 🔊 Ative o áudio:
-## 🖱️ clique aqui para visualizar a pagína: [Audiobook-Service](https://guilhermef-r.github.io/Audiobook-Service/)
+## 🖱️ [Clique aqui para visualizar a página](https://guilhermef-r.github.io/Audiobook-Service/)
 https://github.com/GuilhermeF-R/Audiobook-Service/assets/136031870/3f2af9b4-17d0-49c1-b825-e0c7066e3012
 
 
