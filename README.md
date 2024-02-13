@@ -14,7 +14,7 @@ Projeto realizado durante a 1ª aula do Intensivão de JavaScript da [Hashtag Pr
 
 
 
-![2024-02-13 17-30-23 (online-video-cutter com)](https://github.com/GuilhermeF-R/Audiobook-Service/assets/136031870/e47184fd-695e-4ade-800c-1465b6f7b0cb)
+
 
 
 
