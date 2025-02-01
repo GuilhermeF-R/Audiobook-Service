@@ -1,4 +1,0 @@
-"scripts": {
-  "start": "node index.js",
-  "build": "echo 'Build completo!'"
-}
